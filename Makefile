@@ -1,0 +1,2 @@
+test: *.cpp *.h
+	g++ -std=c++11 *.cpp -o test
